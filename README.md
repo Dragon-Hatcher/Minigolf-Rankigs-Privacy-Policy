@@ -1,0 +1,1 @@
+# Minigolf-Rankigs-Privacy-Policy

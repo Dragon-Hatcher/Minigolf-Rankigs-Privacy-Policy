@@ -3,7 +3,7 @@
 This policy applies to all information collected or submitted on the Minigolf Rankings apps for iPhone and any other devices and platforms.
 
 # Information we collect
-Whn you join the Minigolf Rankings app the only information that is stored is the name of the rankings system you create or join and the games you upload to this rankings system. No other information is collect.
+Whn you join the Minigolf Rankings app the only information that is stored is the name and password of the rankings system you create or join and the games you upload to this rankings system. No other information is collect.
 
 # Technical basics
 If you enable notifications, we must store a token to send them. We never use notifications for marketing.
@@ -15,7 +15,7 @@ The Minigolf Rankings does not currently display adds.
 We do not use any information we collect.
 
 # Security
-
+Passwords are not intended to secure ranking systems but merely to act as a second username so users can see only the ranking system they want to see. Consider the rankings system public. All comunications are handled by Google through firebase. Passwords are not encrypted.
 
 # Third-party links and content
 No third party information is shown

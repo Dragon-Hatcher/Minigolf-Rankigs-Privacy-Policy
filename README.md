@@ -27,7 +27,7 @@ We comply with the California Online Privacy Protection Act. We therefore will n
 We never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 # Information for European Union Customers
-By using Overcast and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
+By using the Minigolf Rankings and providing your information, you authorize us to collect, use, and store your information outside of the European Union.
 
 # International Transfers of Information
 Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary across jurisdictions, and different laws may be applicable to your data depending on where it is processed, stored, or used.
@@ -42,3 +42,4 @@ If you have questions regarding this privacy policy, you may email gareth@usc.ed
 If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
 
 June 16, 2020: First published.
+July 5, 2020: Fixed Type
